@@ -1,0 +1,242 @@
+{
+  "status": "ok",
+  "totalResults": 64,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Gary Gastelu",
+      "title": "Fisker stock drops after 'garbage' report about failing SUVs - Fox Business",
+      "description": "Fisker is pushing back on a report that its electric SUV has faulty software that limits the vehicle's speed and will require months of troubleshooting.",
+      "url": "https://www.foxbusiness.com/lifestyle/fisker-stock-drops-garbage-report-about-failing-suvs",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/04/0/0/fisker-ocean.jpg?ve=1&tl=1",
+      "publishedAt": "2023-05-09T15:29:57Z",
+      "content": "Fisker stock was down ahead of its first quarter earnings report on Tuesday following a Bloomberg report that the first of its Ocean SUVs delivered to customers were experiencing significant technica… [+1977 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Angela Palumbo, Sabrina Escobar",
+      "title": "Under Armour's Poor Earnings Guidance Sends the Stock Tumbling - Barron's",
+      "description": "Sportswear company Under Armour beat fiscal-fourth-quarter numbers, but its outlook for fiscal 2024 missed estimates. Gross margins were crunched in the quarter.",
+      "url": "https://www.barrons.com/articles/under-armour-earnings-stock-30ca1c3d",
+      "urlToImage": "https://images.barrons.com/im-535876/social",
+      "publishedAt": "2023-05-09T15:21:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Dominick Mastrangelo",
+      "title": "Fox Corp. reports $50 million net loss following Dominion settlement - The Hill",
+      "description": "Fox Corp., the parent company of Fox News, reported a net loss of $50 million in the first quarter of 2023, just weeks after it paid a historic settlement to Dominion Voting Systems. The company reported total quarterly revenues of $4.08 billion, representing…",
+      "url": "https://thehill.com/homenews/3995669-fox-corp-reports-50-million-net-loss-following-dominion-settlement/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/64540d81d795d2.97541977.jpeg?w=1280",
+      "publishedAt": "2023-05-09T15:11:00Z",
+      "content": "Skip to content Fox Corp., the parent company of Fox News, reported a net loss of $50 million in the first quarter of 2023, just weeks after it paid a historic settlement to Dominion Voting Systems.… [+1786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "Tempur Sealy buying Mattress Firm in $4 billion deal - CNBC",
+      "description": "Tempur Sealy is looking to grow its business and stem a post-pandemic weakness in sales.",
+      "url": "https://www.cnbc.com/2023/05/09/tempur-sealy-buying-mattress-firm-in-4-billion-deal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105398455-1534344475250gettyimages-483020563.jpeg?v=1683644415&w=1920&h=1080",
+      "publishedAt": "2023-05-09T15:00:15Z",
+      "content": "Tempur Sealy International Inc said on Tuesday it would buy retailer Mattress Firm in a cash-and-stock deal valued at about $4 billion, as the leading bedding maker looks to grow its business and ste… [+1836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Alexandra Canal",
+      "title": "CPI preview: Inflation expected to remain elevated in April as rate hike risks loom - Yahoo Finance",
+      "description": "Investors will turn their attention to critical data that will help determine the future of Federal Reserve policy: the April inflation report.",
+      "url": "https://finance.yahoo.com/news/cpi-preview-inflation-expected-to-remain-elevated-in-april-as-rate-hike-risks-loom-144811803.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GCaQgFHNsSiVnAjY29KJeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/e96cdc60-e9ed-11ed-bddb-562a175aa41a",
+      "publishedAt": "2023-05-09T14:48:11Z",
+      "content": "A closely-watched report on US inflation is expected to show that consumer prices remained elevated last month, consistent with the levels seen in March. April's Consumer Price Index (CPI) is foreca… [+3030 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Tom Krisher",
+      "title": "Hyundai and Kia thefts keep rising despite security fix - The Associated Press",
+      "description": "Nearly three months ago, Hyundai and Kia unveiled software that was designed to thwart an epidemic of thefts of their vehicles, caused by a security flaw that was exposed on TikTok and other social media sites.",
+      "url": "https://apnews.com/article/hyundai-kia-tiktok-theft-stolen-8e0a353d24be0e7bce36e34c5e4dac51",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/973fe90f222c4a38adf7072b2e2b0aa2/3000.webp",
+      "publishedAt": "2023-05-09T14:42:06Z",
+      "content": "Nearly three months ago, Hyundai and Kia unveiled software that was designed to thwart an epidemic of thefts of their vehicles, caused by a security flaw that was exposed on TikTok and other social m… [+7223 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Hanna Ziady",
+      "title": "Ryanair places its biggest order ever for Boeing aircraft - CNN",
+      "description": "Ryanair has agreed to buy 150 new Boeing 737 Max-10 aircraft, and taken options on 150 more, inking the largest order ever placed by an Irish company for US manufactured goods.",
+      "url": "https://www.cnn.com/2023/05/09/business/ryanair-boeing-737-max-order/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230509095524-ryanair-boeing-230419.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-05-09T14:38:00Z",
+      "content": "Ryanair has agreed to buy 150 new Boeing 737-10 aircraft, and taken options on 150 more, inking the largest order ever placed by an Irish company for US manufactured goods. The deal is worth $40 bil… [+3351 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Jack Pitcher, Hardika Singh, Eric Wallerstein, Charley Grant, Quentin Webb, Eliot Brown, Joe Wallace, Caitlin Ostroff, Weilun Soon",
+      "title": "Stock Market Today: Dow Dips Ahead of Inflation Data This Week - The Wall Street Journal",
+      "description": "Live coverage of stocks and financial news, including the S&P 500, Dow and Nasdaq Composite.",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-09-2023",
+      "urlToImage": "https://images.wsj.net/im-589547/social",
+      "publishedAt": "2023-05-09T14:36:00Z",
+      "content": "U.S. stock indexes dipped Tuesday morning as investors awaited key inflation data and watched for progress on talks over raising the debt ceiling.President Biden and congressional leaders are set to … [+1656 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Adam Barnes",
+      "title": "Mortgage credit availability falls to lowest level in decade - The Hill",
+      "description": "Mortgage credit availability fell to its lowest level in a decade as lending tightened amid ongoing instability in the banking sector, according to data released Tuesday by the Mortgage Bankers Association (MBA).  MBA’s Mortgage Credit Availability Index decr…",
+      "url": "https://thehill.com/business/3995578-mortgage-credit-availability-falls-to-lowest-level-in-decade/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/10/d4f25b325c8d4a1fa8a83825b8da90ba.jpg?w=1280",
+      "publishedAt": "2023-05-09T14:26:00Z",
+      "content": "Skip to content Mortgage credit availability fell to its lowest level in a decade as lending tightened amid ongoing instability in the banking sector, according to data released Tuesday by the Mortg… [+2017 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Silvia Amaro",
+      "title": "German regulator warns of a 'nervous time' for banks, predicts stress in the property market - CNBC",
+      "description": "The banking sector has been under the spotlight since March with the collapse of Silicon Valley Bank and the rescue of several other embattled lenders.",
+      "url": "https://www.cnbc.com/2023/05/09/germanys-bafin-warns-of-nervous-time-for-banks-stress-in-property-markets.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107232577-1682668714969-gettyimages-1251588868-20090101230411-99-277858.jpeg?v=1683642220&w=1920&h=1080",
+      "publishedAt": "2023-05-09T14:23:40Z",
+      "content": "Skyscrapers of the city center can be seen from the Lohrberg in the north of Frankfurt. Photo: Arne Dedert/dpa (Photo by Arne Dedert/picture alliance via Getty Images) Germany's financial regulator … [+3087 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Reuters",
+      "title": "Nikola to pause truck production after posting bigger quarterly loss - CNN",
+      "description": "Nikola Corp on Tuesday reported a bigger quarterly loss and said it would pause production to streamline the assembly line at its Coolidge, Arizona factory amid sluggish demand for its battery-powered trucks.",
+      "url": "https://www.cnn.com/2023/05/09/tech/nikola-truck-production-pause/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230509095853-01-nikola-corp-truck-reveal-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-05-09T14:10:00Z",
+      "content": "Nikola Corp on Tuesday reported a bigger quarterly loss and said it would pause production to streamline the assembly line at its Coolidge, Arizona factory amid sluggish demand for its battery-powere… [+712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "NVAX Stock Rockets On Upbeat Sales View, Cuts 25% Of Its Workforce | Investor's Business Daily - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/news/technology/nvax-stock-novavax-earnings-q1-2023/",
+      "urlToImage": null,
+      "publishedAt": "2023-05-09T14:04:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "New York's Empty Office Buildings Lure Rich Families Hunting Bargains - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2023-05-09/new-york-s-empty-office-buildings-lure-rich-families-hunting-bargains",
+      "urlToImage": null,
+      "publishedAt": "2023-05-09T14:00:13Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Marco Margaritoff",
+      "title": "Elizabeth Holmes Addresses Amanda Seyfried's Emmy-Winning Portrayal Of Her - HuffPost",
+      "description": "“They’re not playing me,” said Holmes. “They’re playing a character I created.”",
+      "url": "https://www.huffpost.com/entry/elizabeth-holmes-the-dropout-amanda-seyfried_n_645a2e8ee4b09eef8301efda",
+      "urlToImage": "https://img.huffingtonpost.com/asset/645a32702200001c00eea164.jpg?cache=0feiSSwLBp&ops=1200_630",
+      "publishedAt": "2023-05-09T13:36:09Z",
+      "content": "Elizabeth Holmes isnt that impressed by Hollywoods portrayal of her. Theyre not playing me, Holmes told the New York Times for a profile published Sunday. Theyre playing a character I created. The … [+1939 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Adam Clark, Liz Moyer",
+      "title": "PayPal Stock Falls. Growth Is Coming at a Price. - Barron's",
+      "description": "PayPal tops first-quarter expectations but lowers margin guidance.",
+      "url": "https://www.barrons.com/articles/paypal-stock-operating-margin-growth-7955869",
+      "urlToImage": "https://images.barrons.com/im-422803/social",
+      "publishedAt": "2023-05-09T13:21:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Michael Wayland",
+      "title": "GM hires ex-Apple exec to lead new software unit - CNBC",
+      "description": "Software, specifically monetizing it, is a major focus for automakers such as GM, as it eyes recurring revenue opportunities.",
+      "url": "https://www.cnbc.com/2023/05/09/gm-hires-ex-apple-exec-mike-abbott-to-lead-new-software-unit.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107233427-16829570582023-05-01t155658z_266258166_rc2qp0aegxao_rtrmadp_0_gm-layoffs.jpeg?v=1683637366&w=1920&h=1080",
+      "publishedAt": "2023-05-09T13:02:46Z",
+      "content": "DETROIT General Motors has hired former Apple executive Mike Abbott to lead a newly created software unit for the Detroit automaker. Abbott, former vice president of engineering for Apple's cloud se… [+1390 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Helen Partz",
+      "title": "Bitcoin priced on Binance.US crypto exchange at $700 premium - Cointelegraph",
+      "description": "Amid Binance recovering from several halts of Bitcoin withdrawals, Binance​.US is selling BTC at a $700 premium.",
+      "url": "https://cointelegraph.com/news/bitcoin-priced-at-binance-us-crypto-exchange-at-700-premium",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-05/d91bcc54-c192-430d-a500-39d011e13a52.jpg",
+      "publishedAt": "2023-05-09T12:59:24Z",
+      "content": "Amid the global cryptocurrency exchange Binance recovering from several halts of Bitcoin (BTC) withdrawals, its American arm, Binance.US, is selling BTC at a premium. The price of Bitcoin on Binance… [+1345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Rohan Goswami",
+      "title": "LinkedIn lays off 716 employees, kills China jobs app - CNBC",
+      "description": "The company has operated in China since 2014 but will now focus on its Learning, Marketing, and Talent businesses there, CEO Ryan Roslansky said.",
+      "url": "https://www.cnbc.com/2023/05/09/linkedin-layoffs-2023-716-employees-hit-and-china-app-discontinued.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106099953-1566972463010gettyimages-1001511094.jpeg?v=1683636512&w=1920&h=1080",
+      "publishedAt": "2023-05-09T12:48:32Z",
+      "content": "LinkedIn, the popular business social networking platform owned by Microsoft, will discontinue its China-specific jobs app, InCareer, and lay off 716 employees worldwide, the company said in a messag… [+1435 chars]"
+    }
+  ]
+}
