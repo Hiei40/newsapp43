@@ -1,5 +1,7 @@
 import 'package:conditional_builder_null_safety/conditional_builder_null_safety.dart';
 import 'package:flutter/material.dart';
+import 'package:newsapp/Modules/Web_view/Web_View__.dart';
+import 'package:webview_flutter/webview_flutter.dart';
 
 Widget defaultButton({
   double width = double.infinity,
@@ -56,66 +58,67 @@ Widget defaultFormField({
       enabled: isClickable,
       decoration: InputDecoration(
         labelText: label,
-        border: OutlineInputBorder(
-            borderRadius: BorderRadius.only(
-              topRight: Radius.circular(topRightRadius),
-              bottomLeft: Radius.circular(bottomLeftRadius),
-            )),
+        border: OutlineInputBorder(),
         prefixIcon: Icon(prefix),
         suffixIcon: suffix != null
             ? IconButton(onPressed: suffixPressed, icon: Icon(suffix))
             : null,
       ),
     );
-Widget buildArticleItem(article,context)=>Padding(
-  padding: const EdgeInsets.all(20.0),
-  child: Row(
-    children: [
-      Container(
-        width: 120.0,
-        height: 120.0,
-        decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(10),
-          image: DecorationImage(
-            image: NetworkImage(
-                '${article['urlToImage']}'),
-            fit: BoxFit.cover,
+Widget buildArticleItem(article,context)=>InkWell(
+  onTap: (){
+    navigateTo(context, WebViewScreen(article['url']));
+  },
+  child:   Padding(
+    padding: const EdgeInsets.all(20.0),
+    child: Row(
+      children: [
+        Container(
+          width: 120.0,
+          height: 120.0,
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(10),
+            image: DecorationImage(
+              image: NetworkImage(
+                  '${article['urlToImage']}'),
+              fit: BoxFit.cover,
+            ),
           ),
         ),
-      ),
-      SizedBox(
-        width: 20.0,
-      ),
-      Expanded(
-        child: Container(
-          height: 120,
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-
-            mainAxisAlignment: MainAxisAlignment.start,
-            children: [
-              Expanded(
-                child: Text(
-                  "${article['title']}",
-                  style: TextStyle(
-                    fontSize: 18.0,
-                    fontWeight: FontWeight.w600,
+        SizedBox(
+          width: 20.0,
+        ),
+        Expanded(
+          child: Container(
+            height: 120,
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+  
+              mainAxisAlignment: MainAxisAlignment.start,
+              children: [
+                Expanded(
+                  child: Text(
+                    "${article['title']}",
+                    style: TextStyle(
+                      fontSize: 18.0,
+                      fontWeight: FontWeight.w600,
+                    ),
+                    maxLines: 4,
+                    overflow: TextOverflow.ellipsis,
                   ),
-                  maxLines: 4,
-                  overflow: TextOverflow.ellipsis,
                 ),
-              ),
-              Text(
-                "${article['publishedAt']}",
-                style: TextStyle(
-                  color: Colors.grey,
+                Text(
+                  "${article['publishedAt']}",
+                  style: TextStyle(
+                    color: Colors.grey,
+                  ),
                 ),
-              ),
-            ],
+              ],
+            ),
           ),
-        ),
-      )
-    ],
+        )
+      ],
+    ),
   ),
 );
 Widget myDivider()=> Padding(
@@ -227,8 +230,8 @@ Widget taskBuilder({
         ),
       ),
     );
-Widget articleBuilder(list, context) => ConditionalBuilder(
-  condition: list.isNotEmpty,
+Widget articleBuilder(list, context,{isSearch = false}) => ConditionalBuilder(
+  condition: list.length>0,
   builder: (BuildContext context) => ListView.separated(
     physics: BouncingScrollPhysics(),
     itemCount: list.length,
@@ -238,5 +241,11 @@ Widget articleBuilder(list, context) => ConditionalBuilder(
       return myDivider();
     },
   ),
-  fallback: (BuildContext context) => Center(child: CircularProgressIndicator()),
+  fallback: (BuildContext context) => isSearch ? Container():Center(child: CircularProgressIndicator()),
+);
+void navigateTo(context, widget) => Navigator.push(
+  context,
+  MaterialPageRoute(
+    builder: (context) => widget,
+  ),
 );

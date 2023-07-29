@@ -33,3 +33,12 @@ class NewsGetSiecnceErrorStates extends NewsStates {
   NewsGetSiecnceErrorStates(this.error);
 }
 class NewsChangeModeStates extends NewsStates {}
+class NewsGetSearchLoadingState extends NewsStates {}
+
+class NewsGetSearchSuccessStates extends NewsStates {}
+
+class NewsGetSearchErrorStates extends NewsStates {
+  final String error;
+
+  NewsGetSearchErrorStates(this.error);
+}
